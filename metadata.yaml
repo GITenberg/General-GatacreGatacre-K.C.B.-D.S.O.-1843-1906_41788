@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41367'
     url: http://www.gutenberg.org/2009/agents/41367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41788#General-GatacreGatacre-K.C.B.-D.S.O.-1843-1906
 gutenberg_issued: '2013-01-06'
 gutenberg_type: Text
 identifiers:
